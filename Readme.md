@@ -16,7 +16,7 @@ friends and colleagues to write code together, boosting productivity and creativ
 1. **Clone Repository:** Clone this repository to your local machine.
 
 ## Frontend:
-2. **Installation:** cd to FE folder and then Install dependencies by running `npm install`.
+2. **Installation:** cd to `fe` folder and then Install dependencies by running `npm install`.
 3. **Start Coding:** Launch the code editor using `npm start` and begin collaborating with your team!
 
 ## Backend:
