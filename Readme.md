@@ -6,10 +6,7 @@ friends and colleagues to write code together, boosting productivity and creativ
 
 
 
-
-https://github.com/riyaz489/Realtime-Collaboration-Code-Editor/assets/27089449/d9af86b6-c4ee-4283-9d99-4a4bf8686c45
-
-
+https://github.com/TEJASRI-44/Realtime-collaborative_codeeditor.git
 
 
 
